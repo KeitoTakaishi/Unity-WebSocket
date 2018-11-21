@@ -1,20 +1,33 @@
-<!DOCTYPE <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang = "ja">
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-type" 
+        content="text/html; charset=UTF-8">
     <title><%=title %></title>
-    <link type = "text/css" rel="stylesheet" href="./style.css">
+    <link type="text/css" href="/style.css" rel="stylesheet">
 </head>
-
 <body>
     <head>
-        <h1><%=title %></h1>
+        <h1><%=title%></h1>
     </head>
-
     <div role="main">
-        <p><%=content %></p>
-        <p> <a href="/other">Other Pageに移動 &gt;&gt;</a></p>
+        <p><%=content%></p>
+        <form method = "post" action="/other">
+            <p>
+                <input type="text" name="msg">
+                <input type="submit" value="Click">
+            </p>
+        </form>
+        <p>
+            <table>
+                <% for(var key in data) { %>
+                    <tr>
+                        <th><%=key %></th>
+                        <td><%=data[key] %></td>
+                    </tr>
+                <%}%>
+            </table>
+        </p>            
     </div>
-
-</body>
+    </body>
 </html>
