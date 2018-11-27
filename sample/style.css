@@ -1,19 +1,19 @@
-h1 {
+h1{
     font-size: 60pt;
     color: #eee;
     text-align: right;
-    margin: 0px; 
+    margin:0px; 
 }
 
 body{
     font-size: 12pt;
-    color: #999;
+    color:#999;
     margin: 5px; 
 }
 
 p{
     font-size: 14pt;
-    margin: 0px 20px;
+    margin:0px 20px;
 }
 
 table{
@@ -22,15 +22,13 @@ table{
 
 table tr th{
     background-color: #999;
-    color: #fff;
+    color : #fff;
     text-align: center;
     padding: 3px 10px;
 }
-
 table tr td{
     background-color: #eee;
-    color: #666;
-    text-align: left;
+    color : #666;
+    text-align: jeft;
     padding: 3px 10px;
 }
-
