@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/takaishikeito/Desktop/Node_app/UnityWebSokectSample/UniRx.Async.Editor.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

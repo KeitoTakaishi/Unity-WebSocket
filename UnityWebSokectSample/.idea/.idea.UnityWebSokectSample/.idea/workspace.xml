@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/TimerView.cs" line="27" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5658ead8-de5e-4b2d-b47e-75127d409e33" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../UnityWS/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../UnityWS/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityWebSokectSample/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityWebSokectSample/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/UnityWebSokectSample/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PositionSync.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PositionSync.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.Async.Editor.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.Async.Editor.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.Async.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.Async.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.Examples.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.Examples.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UniRx.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/98/986401702ac5449a4b3f2d0c9e65a910" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/98/986401702ac5449a4b3f2d0c9e65a910" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/98/986401702ac5449a4b3f2d0c9e65a910.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/98/986401702ac5449a4b3f2d0c9e65a910.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniRx.Async.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UniRx.Async.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniRx.Async.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UniRx.Async.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniRx.Examples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UniRx.Examples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UniRx.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UniRx.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnityWebSokectSample.sln" beforeDir="false" afterPath="$PROJECT_DIR$/UnityWebSokectSample.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/UniRx.Async.Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/UniRx.Async.Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini_board/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini_board/data_item.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini_board/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini_board/login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini_board/mydata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mini_board/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/coverage.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov-report/sorter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/coverage/lcov.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/async-limiter/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/Jakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/ejs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/ejs.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/lib/ejs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ejs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/buffer-util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/event-target.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/extension.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/permessage-deflate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/receiver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/sender.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/websocket-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/lib/websocket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/ws/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PositionSync.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/PositionSync.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <folding>
+                <marker date="1543497030868" expanded="false" signature="6:113" ph="..." />
+                <marker date="1543497030868" expanded="true" signature="157:1939" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="415:454" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="481:813" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="859:1594" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="1011:1056" ph="/* Add Events ... */" />
+                <marker date="1543497030868" expanded="true" signature="1120:1210" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="1275:1392" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="1467:1524" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="1600:1666" ph="/// Get Down Stop Sync Button ... " />
+                <marker date="1543497030868" expanded="true" signature="1706:1746" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="1807:1937" ph="{...}" />
+                <marker date="1543497030868" expanded="true" signature="1853:1931" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Move.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Move.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1543496381386" expanded="true" signature="6:92" ph="..." />
+                <marker date="1543496381386" expanded="true" signature="128:306" ph="{...}" />
+                <marker date="1543496381386" expanded="true" signature="146:153" ph="{...}" />
+                <marker date="1543496381386" expanded="true" signature="207:304" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Recieve.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Recieve.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1543344133431" expanded="false" signature="6:100" ph="..." />
+                <marker date="1543344133431" expanded="true" signature="139:446" ph="{...}" />
+                <marker date="1543344133431" expanded="true" signature="212:216" ph="{...}" />
+                <marker date="1543344133431" expanded="true" signature="275:444" ph="{...}" />
+                <marker date="1543344133431" expanded="true" signature="389:419" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Base.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <marker date="1543338864448" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543338864448" expanded="true" signature="114:248" ph="{...}" />
+                <marker date="1543338864448" expanded="true" signature="132:139" ph="{...}" />
+                <marker date="1543338864448" expanded="true" signature="178:246" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhereSample.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/WhereSample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <marker date="1543339917543" expanded="false" signature="6:173" ph="..." />
+                <marker date="1543339917543" expanded="true" signature="207:438" ph="{...}" />
+                <marker date="1543339917543" expanded="true" signature="224:432" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subscribe.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Subscribe.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1543339560451" expanded="false" signature="6:113" ph="..." />
+                <marker date="1543339560451" expanded="true" signature="154:440" ph="{...}" />
+                <marker date="1543339560451" expanded="true" signature="171:336" ph="{...}" />
+                <marker date="1543339560451" expanded="true" signature="376:438" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SyncPhase</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/UniRxSample/Subscribe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniRxSample/WhereSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/PositionSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Recieve.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Move.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UniRxSample/Base.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DelegateSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DelegateTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UniRxSample1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimerCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimerView.cs" />
+        <option value="$PROJECT_DIR$/Assets/UniRxSample/Base.cs" />
+        <option value="$PROJECT_DIR$/Assets/UniRxSample/Subscribe.cs" />
+        <option value="$PROJECT_DIR$/Assets/UniRxSample/WhereSample.cs" />
+        <option value="$PROJECT_DIR$/Assets/WebSocketSample/Script/Recieve.cs" />
+        <option value="$PROJECT_DIR$/Assets/WebSocketSample/Script/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/WebSocketSample/Script/PositionSync.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="264" />
+    <option name="y" value="32" />
+    <option name="width" value="716" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="UnityWebSokectSample" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5658ead8-de5e-4b2d-b47e-75127d409e33" name="Default" comment="" />
+      <created>1543246350719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543246350719</updated>
+      <workItem from="1543246356027" duration="1960000" />
+      <workItem from="1543249142281" duration="3771000" />
+      <workItem from="1543253876101" duration="3049000" />
+      <workItem from="1543293035402" duration="1428000" />
+      <workItem from="1543338442226" duration="2006000" />
+      <workItem from="1543341956017" duration="1421000" />
+      <workItem from="1543495333557" duration="2029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15664000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="264" y="32" width="716" height="867" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.078635015" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="12" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="10" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1543338864448" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543338864448" expanded="true" signature="114:248" ph="{...}" />
+            <marker date="1543338864448" expanded="true" signature="132:139" ph="{...}" />
+            <marker date="1543338864448" expanded="true" signature="178:246" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/WhereSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <marker date="1543339917543" expanded="false" signature="6:173" ph="..." />
+            <marker date="1543339917543" expanded="true" signature="207:438" ph="{...}" />
+            <marker date="1543339917543" expanded="true" signature="224:432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Subscribe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1543339560451" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543339560451" expanded="true" signature="154:440" ph="{...}" />
+            <marker date="1543339560451" expanded="true" signature="171:336" ph="{...}" />
+            <marker date="1543339560451" expanded="true" signature="376:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Recieve.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1543344133431" expanded="false" signature="6:100" ph="..." />
+            <marker date="1543344133431" expanded="true" signature="139:446" ph="{...}" />
+            <marker date="1543344133431" expanded="true" signature="212:216" ph="{...}" />
+            <marker date="1543344133431" expanded="true" signature="275:444" ph="{...}" />
+            <marker date="1543344133431" expanded="true" signature="389:419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/PositionSync.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <marker date="1543497030868" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543497030868" expanded="true" signature="157:1939" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="415:454" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="481:813" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="859:1594" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1011:1056" ph="/* Add Events ... */" />
+            <marker date="1543497030868" expanded="true" signature="1120:1210" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1275:1392" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1467:1524" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1600:1666" ph="/// Get Down Stop Sync Button ... " />
+            <marker date="1543497030868" expanded="true" signature="1706:1746" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1807:1937" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1853:1931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/PositionSync.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <marker date="1543497030868" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543497030868" expanded="true" signature="157:1939" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="415:454" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="481:813" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="859:1594" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1011:1056" ph="/* Add Events ... */" />
+            <marker date="1543497030868" expanded="true" signature="1120:1210" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1275:1392" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1467:1524" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1600:1666" ph="/// Get Down Stop Sync Button ... " />
+            <marker date="1543497030868" expanded="true" signature="1706:1746" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1807:1937" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1853:1931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1543338864448" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543338864448" expanded="true" signature="114:248" ph="{...}" />
+            <marker date="1543338864448" expanded="true" signature="132:139" ph="{...}" />
+            <marker date="1543338864448" expanded="true" signature="178:246" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/WhereSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <marker date="1543339917543" expanded="false" signature="6:173" ph="..." />
+            <marker date="1543339917543" expanded="true" signature="207:438" ph="{...}" />
+            <marker date="1543339917543" expanded="true" signature="224:432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Subscribe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1543339560451" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543339560451" expanded="true" signature="154:440" ph="{...}" />
+            <marker date="1543339560451" expanded="true" signature="171:336" ph="{...}" />
+            <marker date="1543339560451" expanded="true" signature="376:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimerView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PositionSync.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimerCounter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateSample.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PositionSync.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimerCounter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimerView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Test.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UniRxSample1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateSample.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateSample.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateSample.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UniRxSample1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DelegateTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Test.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimerCounter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PositionSync.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimerView.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Subscribe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1543339560451" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543339560451" expanded="true" signature="154:440" ph="{...}" />
+            <marker date="1543339560451" expanded="true" signature="171:336" ph="{...}" />
+            <marker date="1543339560451" expanded="true" signature="376:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <marker date="1543338864448" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543338864448" expanded="true" signature="114:248" ph="{...}" />
+            <marker date="1543338864448" expanded="true" signature="132:139" ph="{...}" />
+            <marker date="1543338864448" expanded="true" signature="178:246" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UniRxSample/WhereSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <marker date="1543339917543" expanded="false" signature="6:173" ph="..." />
+            <marker date="1543339917543" expanded="true" signature="207:438" ph="{...}" />
+            <marker date="1543339917543" expanded="true" signature="224:432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Recieve.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1543344133431" expanded="false" signature="6:100" ph="..." />
+            <marker date="1543344133431" expanded="true" signature="139:446" ph="{...}" />
+            <marker date="1543344133431" expanded="true" signature="212:216" ph="{...}" />
+            <marker date="1543344133431" expanded="true" signature="275:444" ph="{...}" />
+            <marker date="1543344133431" expanded="true" signature="389:419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/Move.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1543496381386" expanded="true" signature="6:92" ph="..." />
+            <marker date="1543496381386" expanded="true" signature="128:306" ph="{...}" />
+            <marker date="1543496381386" expanded="true" signature="146:153" ph="{...}" />
+            <marker date="1543496381386" expanded="true" signature="207:304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/WebSocketSample/Script/PositionSync.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding>
+            <marker date="1543497030868" expanded="false" signature="6:113" ph="..." />
+            <marker date="1543497030868" expanded="true" signature="157:1939" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="415:454" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="481:813" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="859:1594" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1011:1056" ph="/* Add Events ... */" />
+            <marker date="1543497030868" expanded="true" signature="1120:1210" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1275:1392" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1467:1524" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1600:1666" ph="/// Get Down Stop Sync Button ... " />
+            <marker date="1543497030868" expanded="true" signature="1706:1746" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1807:1937" ph="{...}" />
+            <marker date="1543497030868" expanded="true" signature="1853:1931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

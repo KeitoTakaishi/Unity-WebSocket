@@ -1,0 +1,10 @@
+{"id":"Takaishi","msg":"ge"}
+{"id":"Takaishi","msg":"hello"}
+{"id":"Takaishi","msg":"hello"}
+{"id":"keito","msg":"message"}
+{"id":"keito","msg":""}
+{"id":"keito","msg":""}
+{"id":"keito","msg":""}
+{"id":"keito","msg":"message"}
+{"id":"keito","msg":"message"}
+{"id":"keito","msg":"message"}
