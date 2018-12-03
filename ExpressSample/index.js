@@ -22,7 +22,10 @@ app.get('/', (req, res) => {
 });
 
 app.post('/', (req, res) =>{
+    
     var msg = req.body.message;
+    console.log('test');
+    ///console.log('message;'+req.body.message);
 
     res.render('index.ejs',
     {

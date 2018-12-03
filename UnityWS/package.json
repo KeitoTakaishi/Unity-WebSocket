@@ -1,7 +1,6 @@
 {
   "name": "unityws",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "ws": "^6.1.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
