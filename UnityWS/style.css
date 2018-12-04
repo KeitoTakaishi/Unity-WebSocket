@@ -1,11 +1,27 @@
 body{
-    background-color: black;
+    font-size: 12pt;
+    color:#000;
+    margin: 5px;
 }
 
-.title h3{
-    color: white;
+p{
+    font-size: 14pt;
+    margin:0px 20px;
 }
 
-.title form{
-    float : left;
+table{
+    margin: 20px;
+}
+
+table tr th{
+    background-color: #04eef5;
+    color : #04eef5;
+    text-align: center;
+    padding: 3px 10px;
+}
+table tr td{
+    background-color: #eee;
+    color : #666;
+    text-align: jeft;
+    padding: 3px 10px;
 }
