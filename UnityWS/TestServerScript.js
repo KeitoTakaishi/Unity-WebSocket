@@ -65,8 +65,16 @@ function getDataFromQuery(req, res, value){
                  wss.on('connection', function(ws) {
                      if(isAccept === true){
                          isAccept = false;
-                         ws.send("value01=" + values[0] + "," + "value02=" + values[1]);
-                         //console.log('value01:  ' + v);
+                         let sendData = '';
+                         for(let i = 0; i < 16; i++){
+                             if(i !== 15){
+                                sendData += "value"+(i+1).toString() + " : " + values[i] + "\n"
+                             }else{
+                                sendData += "value"+(i+1).toString() + " : " + values[i]
+                             }
+                         }
+                         ws.send(sendData);
+                         //ws.send("value01=" + values[0] + "," + "value02=" + values[1]);
                      }
                  });
              }else{
