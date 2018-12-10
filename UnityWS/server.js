@@ -1,3 +1,5 @@
+
+
 var WebSocketServer = require('ws').Server;
 var wss = new WebSocketServer({
     port: 8000
@@ -30,7 +32,27 @@ function getFromClient(req, res){
             res.writeHead(200, {'Content-Type': 'text/html'});
           	res.write(content);
           	res.end();
-		        break;
+            break;
+        
+        case '/v2':
+            queryChecker(req, res, route);
+            var content = ejs.render(index_page, {
+                content: temp,
+            });
+            res.writeHead(200, {'Content-Type': 'text/html'});
+          	res.write(content);
+          	res.end();
+            break;
+            
+        case '/v3':
+        queryChecker(req, res, route);
+        var content = ejs.render(index_page, {
+            content: temp,
+        });
+        res.writeHead(200, {'Content-Type': 'text/html'});
+            res.write(content);
+            res.end();
+            break;
 	}
 }
 
