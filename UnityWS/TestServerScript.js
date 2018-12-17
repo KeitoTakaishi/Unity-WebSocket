@@ -1,5 +1,9 @@
 //test用server script
 //本番用
+//http://192.168.100.254:3000/v?msg=255,0,0
+
+
+
 
 //webSocket
 var WebSocketServer = require('ws').Server;
@@ -22,7 +26,7 @@ const index_page = fs.readFileSync('./indexTest.ejs', 'utf8');
 var server = http.createServer((req, res) =>{
     getDataFromQuery(req, res, values);
     //trueをつけることでqueryがきても対応できるようにする
-    
+
     //htmlを整形
     var cont = ejs.render(index_page, {
         content1 : values[0],
@@ -53,14 +57,14 @@ function getDataFromQuery(req, res, value){
         let query = url.parse(req.url, true).query;
         let index = url.parse(req.url, true).pathname;
         index = index.replace("/v","") - 1;
-        
+
         if(query.msg !== undefined){
             isAccept = true;
              if(value[index] !== query.msg){
                 value[index] = query.msg;
                 console.log(`${url.parse(req.url, true).pathname}`);   //reqのPath表示
                 console.log(`${url.parse(req.url, true).pathname} msg : ${query.msg}`);
-                
+
                  //unityとの通信
                  wss.on('connection', function(ws) {
                      if(isAccept === true){
@@ -83,7 +87,7 @@ function getDataFromQuery(req, res, value){
         }else{
             console.log(`query.meg is not defined`);
         }
-    }    
+    }
 }
 server.listen(3000);
 console.log('start server');
